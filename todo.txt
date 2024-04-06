@@ -1,0 +1,1 @@
+TODO: allow the user to remove places.
